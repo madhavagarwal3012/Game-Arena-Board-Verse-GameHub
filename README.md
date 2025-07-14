@@ -105,8 +105,6 @@ Game-Arena-Board-Verse-GameHub/
 │   └── GameHubApp.jar
 ├── java-gui/
 │   ├── GamePlatform.java
-│   ├── build_jar.bat
-│   ├── .gitignore
 │   └── images/
 │       ├── lifeline.png
 │       ├── main-menu.PNG
