@@ -170,6 +170,11 @@ Contributions are welcome! If you have ideas, improvements, or bug fixes, feel f
 Created by **Madhav Agarwal**.  
 Inspired by classic games, built for modern fun and learning.
 
+If you have any questions or need further assistance, feel free to reach out:
+
+- GitHub: [madhavagarwal3012](https://github.com/madhavagarwal3012)
+- Linktree: [madhavagarwal3012](https://linktr.ee/madhavagarwal3012)
+
 ---
 
 ## 📜 License
@@ -179,3 +184,4 @@ This project is licensed under the MIT License. See [LICENSE](https://github.com
 ---
 
 *Enjoy playing! If you like it, give a ⭐ on GitHub and share with friends!* 
+[![Star History Chart](https://api.star-history.com/svg?repos=madhavagarwal3012/Game-Arena-Board-Verse-GameHub&type=Date)](https://www.star-history.com/#madhavagarwal3012/Game-Arena-Board-Verse-GameHub&Date)
