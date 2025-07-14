@@ -100,25 +100,27 @@ Want to explore or modify the code?
 ## 📁 Repository Structure
 
 ```
-repo-root/
+Game-Arena-Board-Verse-GameHub/
 ├── application/
 │   └── GameHubApp.jar
-└── java-gui/
-    ├── GamePlatform.java
-    ├── README.md
-    ├── .gitignore
-    ├── LICENSE
-    └── images/
-        ├── tictactoe.PNG
-        ├── othello.PNG
-        ├── sudoku.PNG
-        ├── lifeline.png
-        ├── main-menu.png
-        ├── tictactoe-3x3.png
-        ├── tictactoe-2x2-toss.png
-        ├── othello-gameplay.png
-        ├── sudoku-gameplay.PNG
-        └── sudoku-lifeline-finished.png
+├── java-gui/
+│   ├── GamePlatform.java
+│   ├── build_jar.bat
+│   ├── .gitignore
+│   └── images/
+│       ├── lifeline.png
+│       ├── main-menu.PNG
+│       ├── othello-gameplay.PNG
+│       ├── othello.PNG
+│       ├── sudoku-gameplay.PNG
+│       ├── sudoku-lifeline-finished.PNG
+│       ├── sudoku.PNG
+│       ├── tictactoe-2x2-toss.PNG
+│       ├── tictactoe-3x3.PNG
+│       └── tictactoe.PNG
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
