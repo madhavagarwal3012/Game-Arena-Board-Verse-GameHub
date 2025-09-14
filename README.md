@@ -54,8 +54,8 @@ Game Arena is more than just a collection of games. It’s a showcase of how cla
 
 ## 🖥️ How to Run Game Arena
 
-### 1. Download the JAR
-- [Click here to download GameHubApp.jar](https://github.com/madhavagarwal3012/Game-Arena-Board-Verse-GameHub/raw/main/application/GameHubApp.jar)
+### 1. Download the EXE
+- [Click here to download GameHubApp.exe](https://github.com/madhavagarwal3012/Game-Arena-Board-Verse-GameHub/raw/main/application/Game-Hub.exe)
 
 ### 2. Install Java (if not already installed)
 - You need Java 8 or higher (JRE or JDK).
