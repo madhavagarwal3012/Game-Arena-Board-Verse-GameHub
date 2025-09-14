@@ -65,7 +65,7 @@ Game Arena is more than just a collection of games. It’s a showcase of how cla
 - **Option 1: Double-click** the `Game-Hub.jar` file.
 - **Option 2: Use the command line:**
   ```sh
-  java -jar GameHubApp.jar
+  java -jar Game-Hub.jar
   ```
 
 ### 4. Enjoy!
