@@ -52,17 +52,17 @@ Game Arena is more than just a collection of games. It’s a showcase of how cla
 
 ---
 
-## 🖥️ How to Run Game Arena
+## 🖥️ How to Run Game Arena (Using JAR File)
 
-### 1. Download the EXE
-- [Click here to download GameHubApp.exe](https://github.com/madhavagarwal3012/Game-Arena-Board-Verse-GameHub/raw/main/application/Game-Hub.exe)
+### 1. Download the JAR
+- [Click here to download GameHubApp.jar](https://github.com/madhavagarwal3012/Game-Arena-Board-Verse-GameHub/raw/main/application/Game-Hub.jar)
 
 ### 2. Install Java (if not already installed)
 - You need Java 8 or higher (JRE or JDK).
 - Download from [Adoptium](https://adoptium.net/) or [Oracle](https://www.oracle.com/java/technologies/downloads/).
 
 ### 3. Run the Game
-- **Option 1: Double-click** the `GameHubApp.jar` file.
+- **Option 1: Double-click** the `Game-Hub.jar` file.
 - **Option 2: Use the command line:**
   ```sh
   java -jar GameHubApp.jar
@@ -70,6 +70,19 @@ Game Arena is more than just a collection of games. It’s a showcase of how cla
 
 ### 4. Enjoy!
 - No need to download any other files or source code. The JAR contains everything needed to play.
+  
+---
+
+## 🖥️ How to Run Game Arena (Using Exe File)
+
+### 1. Download the EXE
+- [Click here to download GameHubApp.exe](https://github.com/madhavagarwal3012/Game-Arena-Board-Verse-GameHub/raw/main/application/Game-Hub.exe)
+
+### 2. Run the Game
+- **Double-click** the `Game-Hub.exe` file.
+
+### 3. Enjoy!
+- No need to download any other files or source code. The EXE contains everything needed to play.
 
 ---
 
@@ -102,7 +115,8 @@ Want to explore or modify the code?
 ```
 Game-Arena-Board-Verse-GameHub/
 ├── application/
-│   └── GameHubApp.jar
+│   │── Game-Hub.jar
+│   └── Game-Hub.exe
 ├── java-gui/
 │   ├── GamePlatform.java
 │   └── images/
