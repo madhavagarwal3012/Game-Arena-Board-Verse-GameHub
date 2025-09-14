@@ -107,7 +107,7 @@ Want to explore or modify the code?
 - If double-clicking the JAR doesn't work, use the command line method above.
 - If you get an error like "Java not recognized," install Java and try again.
 - If the game doesn’t launch, make sure you downloaded the full JAR and not a partial file.
-- If Windows Defender or any other Defender shows a warning, click "More info" then "Run anyway".
+- If Windows Defender or any other Defender shows a warning for EXE file, click "More info" then "Run anyway".
 - This is normal for unsigned executables from GitHub. (Rest-Assured the file is 100% safe).
 
 ---
